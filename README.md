@@ -224,5 +224,5 @@ I suggest checking Gitlab's official API documentation: https://docs.gitlab.com/
 
 ## Donating 💜
 
-Make sure to check this project on [OpenPledge](https://app.openpledge.io/repositories/zigcBenx/gitHappens).
+Make sure to check this project on [OpenPledge](https://app.openpledge.io/repositories/zigcBenx/gitHappens)
 
