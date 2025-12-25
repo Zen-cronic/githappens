@@ -2,3 +2,4 @@ configs/templates.json
 configs/config.ini
 
 .python-version
+__pycache__/
